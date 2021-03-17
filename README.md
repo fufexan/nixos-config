@@ -1,8 +1,8 @@
 # NixOS Configuration
 
-In-house baked configs for NixOS. Borrowed bits sprinkled on top. Using flakes.
+Moved [here](https://github.com/fufexan/dotfiles).
 
-Home Manager config [here](https://github.com/fufexan/dotfiles).
+In-house baked configs for NixOS. Borrowed bits sprinkled on top. Using flakes.
 
 ## Components
 
